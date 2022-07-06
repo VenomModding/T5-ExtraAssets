@@ -1,0 +1,120 @@
+iwmap 4
+"000_Global" flags  active
+"The Map" flags 
+// entity 0
+{
+"classname" "worldspawn"
+// brush 0
+{
+ ( -18.5 11.5 0 ) ( -22 11.5 0 ) ( -22 7 0 ) clip_player 64 64 -8 -16 0 0 lightmap_gray 16384 16384 -8 0 0 0
+ ( -22 18 72 ) ( -22 22.5 72 ) ( -18.5 22.5 72 ) clip_player 64 64 -8 -16 0 0 lightmap_gray 16384 16384 -8 0 0 0
+ ( 2.5 -14 16 ) ( 6 -14 16 ) ( 6 -14 0 ) clip_player 64 64 -8 -16 0 0 lightmap_gray 16384 16384 -8 0 0 0
+ ( 22 -14 16 ) ( 22 -9.5 16 ) ( 22 -9.5 0 ) clip_player 64 64 0 -16 0 0 lightmap_gray 16384 16384 0 0 0 0
+ ( -18.5 12 16 ) ( -22 12 16 ) ( -22 12 0 ) clip_player 64 64 -8 -16 0 0 lightmap_gray 16384 16384 -8 0 0 0
+ ( -22 11.5 16 ) ( -22 7 16 ) ( -22 7 0 ) clip_player 64 64 0 -16 0 0 lightmap_gray 16384 16384 0 0 0 0
+}
+}
+// entity 1
+{
+"classname" "trigger_use"
+"origin" "2142 6043 54"
+"target" "vendingelectric_cherry"
+"targetname" "vendingelectric_cherry"
+"script_noteworthy" "specialty_grenadepulldeath"
+"script_sound" "mus_perks_cherry_jingle"
+"script_label" "mus_perks_cherry_sting"
+"script_string" "electric_cherry_perk"
+// brush 0
+{
+ ( 30 35 7 ) ( -42 35 7 ) ( -42 -29 7 ) trigger 64 64 -8 0 0 0 lightmap_gray 16384.168 16383.875 -2176.0374 6071.939 0 0
+ ( -43 -29 51 ) ( -43 35 51 ) ( 29 35 51 ) trigger 64 64 -8 0 0 0 lightmap_gray 16383.945 16384 -2175.9824 6071.9976 0 0
+ ( -41 -14 30 ) ( 31 -14 30 ) ( 31 -14 22 ) trigger 64 64 -8 0 0 0 lightmap_gray 16384 16384 -2175.9949 32 0 -9.1552734e-005
+ ( 22 -28 30 ) ( 22 36 30 ) ( 22 36 22 ) trigger 64 64 0 0 0 0 lightmap_gray 16384 16384 -6072 32 0 0.00012207031
+ ( 30 8 30 ) ( -42 8 30 ) ( -42 8 22 ) trigger 64 64 -8 0 0 0 lightmap_gray 16384.111 16383.977 -2176.011 32 0 -9.1552603e-005
+ ( -22 35 30 ) ( -22 -29 30 ) ( -22 -29 22 ) trigger 64 64 0 0 0 0 lightmap_gray 16384.375 16383.977 -6072.1396 32 0 0
+}
+}
+// entity 2
+{
+"classname" "trigger_multiple"
+"origin" "2138 6041 49"
+"targetname" "audio_bump_trigger"
+"script_sound" "fly_bump_bottle"
+"script_string" "tap_perk"
+// brush 0
+{
+ ( 40 33 0 ) ( -32 33 0 ) ( -32 -31 0 ) sound_trigger 64 -64 2161.9331 -6072.0044 180 0 lightmap_gray 16384 16384 -2161.9326 6072 0 0
+ ( -24 -31 72 ) ( -24 33 72 ) ( 48 33 72 ) sound_trigger 64 -64 2162.0024 -6072.0415 180 0 lightmap_gray 16384.223 16384 -2162.0295 6071.9854 0 0
+ ( -32 -15 8 ) ( 40 -15 8 ) ( 40 -15 0 ) sound_trigger 64 -64 2162 -49 180 -0.00012207031 lightmap_gray 16384 16384 -2162.0037 49 0 0
+ ( 24 -31 8 ) ( 24 33 8 ) ( 24 33 0 ) sound_trigger 64 -64 6072.1001 -49 180 0.00012207031 lightmap_gray 16384.375 16384 -6072.1406 49 0 0
+ ( 40 13 8 ) ( -32 13 8 ) ( -32 13 0 ) sound_trigger 64 -64 2162.0054 -49 -180 0 lightmap_gray 16383.889 16383.984 -2161.9844 49 0 -6.1035098e-005
+ ( -24 33 8 ) ( -24 -31 8 ) ( -24 -31 0 ) sound_trigger 64 -64 6071.9902 -49 180 -0.00012207031 lightmap_gray 16383.875 16384 -6071.9521 49 0 -0.00048828125
+}
+}
+// entity 3
+{
+"classname" "script_struct"
+"origin" "0.0 -36.0 8.0"
+"angles" "0 90 0"
+"targetname" "pf1338_auto1"
+"script_noteworthy" "cosmo_monkey_doubletap"
+"script_int" "2"
+}
+// entity 4
+{
+"target" "vendingelectric_cherry"
+"classname" "script_struct"
+"origin" "-20.0 -28.0 8.0"
+"angles" "0 90 0"
+"targetname" "auto2"
+"script_noteworthy" "cosmo_monkey_doubletap"
+"script_int" "1"
+}
+// entity 5
+{
+"target" "vendingelectric_cherry"
+"classname" "script_struct"
+"origin" "20.0 -28.0 8.0"
+"angles" "0 90 0"
+"targetname" "auto3"
+"script_noteworthy" "cosmo_monkey_doubletap"
+"script_int" "3"
+}
+// entity 6
+{
+"classname" "script_struct"
+"origin" "0.0 -36.0 8.0"
+"angles" "0 90 0"
+"targetname" "auto4"
+"script_noteworthy" "cosmo_monkey_doubletap"
+"script_int" "2"
+}
+// entity 7
+{
+"script_int" "3"
+"script_noteworthy" "cosmo_monkey_doubletap"
+"targetname" "auto7"
+"angles" "0 90 0"
+"origin" "20.0 -28.0 8.0"
+"classname" "script_struct"
+"target" "vendingelectric_cherry"
+}
+// entity 8
+{
+"script_int" "1"
+"script_noteworthy" "cosmo_monkey_doubletap"
+"targetname" "auto6"
+"angles" "0 90 0"
+"origin" "-20.0 -28.0 8.0"
+"classname" "script_struct"
+"target" "vendingelectric_cherry"
+}
+// entity 9
+{
+"script_string" "tap_perk"
+"targetname" "vendingelectric_cherry"
+"target" "pf1338_auto1"
+"origin" "0.0 0.0 0.0"
+"model" "p6_zm_vending_electric_cherry_off"
+"classname" "script_model"
+}

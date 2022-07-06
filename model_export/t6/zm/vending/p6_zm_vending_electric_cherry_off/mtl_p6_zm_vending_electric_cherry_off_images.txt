@@ -1,0 +1,4 @@
+semantic,image_name
+specularMap,~~-gzombie_vending_electric_c~a9b68ef1
+normalMap,zombie_vending_electric_cherry_n
+colorMap,~-gzombie_vending_electric_cherry_c

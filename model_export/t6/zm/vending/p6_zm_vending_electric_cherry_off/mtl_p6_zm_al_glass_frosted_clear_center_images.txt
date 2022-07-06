@@ -1,0 +1,4 @@
+semantic,image_name
+specularMap,~~-gglass_frosted_panel_spc-r~568cfc3f
+normalMap,$identitynormalmap
+colorMap,~-gmtl_p6_zm_glass_frosted_cl~8b3b55a2

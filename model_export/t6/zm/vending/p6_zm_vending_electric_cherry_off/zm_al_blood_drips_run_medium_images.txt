@@ -1,0 +1,4 @@
+semantic,image_name
+specularMap,~~-gglo_dec_blood_splat_drip_~b18384d6
+normalMap,glo_dec_blood_splat_drip_run_medium_n
+colorMap,~-gglo_dec_mature_blood_splt_~c028c2d0

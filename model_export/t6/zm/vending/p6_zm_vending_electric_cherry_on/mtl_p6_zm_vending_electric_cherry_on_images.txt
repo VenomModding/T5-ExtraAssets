@@ -1,0 +1,5 @@
+semantic,image_name
+unk_semantic_0x6CC85B10,zombie_vending_electric_cherry_m
+unk_semantic_0x8C297E80,~~-gzombie_vending_electric_c~69de7fa3
+Normal_Map,zombie_vending_electric_cherry_n
+colorMap,~-gzombie_vending_electric_cherry_c

@@ -1,0 +1,4 @@
+semantic,image_name
+unk_semantic_0x8C297E80,~~-gmtl_t6_zmb_perk_bottle_ju~4d75583f
+Normal_Map,mtl_t6_zmb_perk_bottle_jugg_nml
+Color_Map,~-gmtl_t6_zmb_perk_bottle_cherry_col

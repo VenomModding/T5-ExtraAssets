@@ -1,0 +1,4 @@
+semantic,image_name
+specularMap,~~-gmtl_t6_zmb_perk_bottle_ju~f1df4990
+normalMap,mtl_t6_zmb_perk_bottle_jugg_nml
+colorMap,~-gmtl_t6_zmb_perk_bottle_cherry_col
