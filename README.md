@@ -12,7 +12,7 @@ If you want to contribute to the T5-ExtraAssets pack, we would appreciate you do
 
 # Credits
 - dsm_ribbitpoison - Porting assets from BO2, BO3
-- FaberTheCatgirl - Fixing up assets from other CoD Titles
+- FaberTheCatgirl - Porting assets from various CoD Titles
 - SE2Dev, Nukem9 - Creators of LinkerMod
 - DTZxPorter/Sobalula - Wraith Archon/Greyhound, respectfully.
 - Treyarch & Activision - Developers/Publishers of the Black Ops Mod Tools on PC
