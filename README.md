@@ -1,4 +1,4 @@
-# T5-ExtraAssets
+# T5 Extra Assets
 Extra Assets for the Black Ops Mod Tools that have some assets fixed up from other CoD titles.
 
 # The Purpose of the Pack
@@ -6,6 +6,15 @@ This pack is full of optional stuff to add upon the lacking Black Ops Mod Tools.
 
 # Installation (Manual)
 Download the [source code ZIP file on this page](https://github.com/VenomModding/T5-ExtraAssets). Then, you insert every file to your main Black Ops Directory.
+
+# Compiling to Mod Tools
+We suggest running the GDTs one by one using Asset Manager. 
+However, if you don't mind, you can also use the Converter. Not recommended though.
+
+# Issues
+- Electric Cherry, Who's Who is still a WIP
+- T7 textures are not in a GDT, those are up to the end user to make brand new GDTs and do a pull request if they wish. If there is a BO3 Mod Tools GDT included, it is not compatible with the current Asset Manager.
+- Most assets aren't going to be compiled for your amusement, and to not get a C&D. We provide GDTs as its up to the end user to complete and compile the assets on their own.
 
 # Contribution
 If you want to contribute to the T5-ExtraAssets pack, we would appreciate you doing a pull request. We're always glad to see people helping out.
