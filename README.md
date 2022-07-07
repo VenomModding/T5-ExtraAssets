@@ -13,8 +13,8 @@ However, if you don't mind, you can also use the Converter. Not recommended thou
 
 # Issues
 - Electric Cherry, Who's Who is still a WIP. Prefabs are done and complete, however, the scripts are still not done/complete.
-- T7 textures are not in a GDT, those are up to the end user to make brand new GDTs and do a pull request if they wish. If there is a BO3 Mod Tools GDT included, it is not compatible with the current Asset Manager.
-- Most assets aren't going to be compiled for your amusement, and to not get a C&D. We provide GDTs as its up to the end user to complete and compile the assets on their own.
+- T7 textures are not in a GDT, those are up to the end user to make brand new GDTs and do a pull request if they wish. If there is an exisiting BO3 GDT, it is not compatible with the current Legacy Asset Manager.
+- Most assets aren't going to be compiled, and to not get a C&D. We will not provide GDTs as its up to the end user to complete and compile the assets on their own.
 
 # Contribution
 If you want to contribute to the T5-ExtraAssets pack, we would appreciate you doing a pull request. We're always glad to see people helping out.
