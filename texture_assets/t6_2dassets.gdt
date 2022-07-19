@@ -1587,7 +1587,7 @@
 		"filterSpecularCorrection" "mip standard (2x bilinear)*"
 		"filterSpecularRoughness" "mip standard (2x bilinear)*"
 		"formatAmbientOcclusion" "<auto compression>*"
-		"formatColor" "<auto compression>*"
+		"formatColor" "DXT5"
 		"formatColorDetail" "<auto compression>*"
 		"formatDetail" "<auto compression>*"
 		"formatNormal" "<auto compression>*"
@@ -2232,7 +2232,7 @@
 		"filterSpecularCorrection" "mip standard (2x bilinear)*"
 		"filterSpecularRoughness" "mip standard (2x bilinear)*"
 		"formatAmbientOcclusion" "<auto compression>*"
-		"formatColor" "<auto compression>*"
+		"formatColor" "DXT5"
 		"formatColorDetail" "<auto compression>*"
 		"formatDetail" "<auto compression>*"
 		"formatNormal" "<auto compression>*"
@@ -3889,6 +3889,10 @@
 	"menu_mp_weapons_870mcs" [ "menu_mp_weapons" ]
 	{
 		"colorMap" "texture_assets\\custom\\t6\\hud\\weapon\\menu_mp_weapons_870mcs.dds"
+	}
+	"menu_mp_weapons_ballista" [ "menu_mp_weapons" ]
+	{
+		"colorMap" "texture_assets\\custom\\t6\\hud\\weapon\\menu_mp_weapons_ballista.dds"
 	}
 	"menu_mp_weapons_titus" [ "menu_mp_weapons" ]
 	{
