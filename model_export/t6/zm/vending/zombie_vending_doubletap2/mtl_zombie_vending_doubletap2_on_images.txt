@@ -1,0 +1,2 @@
+semantic,image_name
+colorMap,~-gzombie_vending_doubletap2_c

@@ -1,0 +1,4 @@
+semantic,image_name
+specularMap,~~-gzombie_vending_doubletap2~3b8ca4d9
+normalMap,zombie_vending_doubletap2_n
+colorMap,~-gzombie_vending_doubletap2_c
