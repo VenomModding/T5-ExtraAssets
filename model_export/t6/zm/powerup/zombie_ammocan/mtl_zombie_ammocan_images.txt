@@ -1,0 +1,4 @@
+semantic,image_name
+specularMap,~~-gmetal_gold_s-rgb&~-rmetal~39bd028a
+normalMap,zombie_ammo_box_n
+colorMap,~-gzombie_ammo_box_c

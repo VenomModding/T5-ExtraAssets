@@ -1,0 +1,4 @@
+semantic,image_name
+specularMap,~~-gmetal_gold_s-rgb&~-rmetal~0bd5e479
+normalMap,$identitynormalmap
+colorMap,~-gmetal_gold_c
