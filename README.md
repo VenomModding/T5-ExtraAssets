@@ -27,4 +27,4 @@ If you want to contribute to the T5-ExtraAssets pack, we would appreciate you do
 - Treyarch & Activision - Developers/Publishers of the Black Ops Mod Tools on PC
 
 # Discord
-[Venom's Mod Warehouse, the home of LinkerMod Enhanced and T5-MissingAssets](https://discord.gg/NSsYXecFxf)
+[Venom Modding, the home of T5-MissingAssets](https://ouo.io/QK00XQ)
