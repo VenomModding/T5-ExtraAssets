@@ -20,7 +20,7 @@ However, if you don't mind, you can also use the Converter. Not recommended thou
 If you want to contribute to the T5-ExtraAssets pack, we would appreciate you doing a pull request. We're always glad to see people helping out.
 
 # Credits
-- dsm_ribbitpoison - Porting assets from BO2, BO3
+- RealVenom - Porting assets from BO2, BO3
 - FaberTheCatgirl - Porting assets from various CoD Titles
 - SE2Dev, Nukem9 - Creators of LinkerMod
 - DTZxPorter/Sobalula - Wraith Archon/Greyhound, respectfully.
